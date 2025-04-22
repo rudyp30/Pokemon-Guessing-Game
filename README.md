@@ -12,7 +12,8 @@ Features:
 - Addictive knowledge testing game
 
 # Demo
-https://github.com/user-attachments/assets/e4c7ac2d-0966-471d-9af3-b0e9fba6ccea
+https://github.com/user-attachments/assets/b45d2b3a-5711-4669-b84a-11c5e44acf3a
+
 
 # Future Enhancements
 -Add a scoring system
